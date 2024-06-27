@@ -1,0 +1,2 @@
+# STM32WB5MMGRH6TR_board
+ 
